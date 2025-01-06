@@ -1,0 +1,6 @@
+name: trainpriceticketprediction
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pathlib
